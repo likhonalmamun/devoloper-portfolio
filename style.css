@@ -1,0 +1,52 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0%;
+}
+.flex-box1 {
+  display: flex;
+  background-image: url(top-banner.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.flex-item {
+  width: 40%;
+  padding-left: 7%;
+  padding-top: 4%;
+}
+h1 {
+  font-size: 3vw;
+}
+.color {
+  color: rgb(236, 125, 52);
+}
+.jhankar1 {
+  width: 90%;
+  padding: 0% 10% 0 10%;
+}
+.jhankar2 {
+  width: 90%;
+  padding: 0% 10% 0 0%;
+}
+.link-button {
+  /* margin: 3%  2%; */
+  padding: 2% 7%;
+  text-decoration: none;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  color: aliceblue;
+  border-radius: 15px;
+  font-size: larger;
+  font-weight: 800;
+}
+.para {
+  padding: 3% 0;
+}
+.flex-box2 {
+  display: flex;
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+section {
+  margin-bottom: 10%;
+}
